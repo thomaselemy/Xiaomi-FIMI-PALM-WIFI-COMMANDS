@@ -1,0 +1,5 @@
+http://192.168.0.1/cgi-bin/hi3510/setcurworkmode.cgi?-workmode=SING_PHOTO //change to photo mode
+
+http://192.168.0.1/cgi-bin/hi3510/record.cgi?-cmd=start
+
+http://192.168.0.1/cgi-bin/hi3510/record.cgi?-cmd=stop
